@@ -1,1 +1,1 @@
-ce projet base sur les technonoligie html css javascript et bootstrap
+ce projet base sur les technologies html css javascript et bootstrap
